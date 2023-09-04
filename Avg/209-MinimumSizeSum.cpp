@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-size-subarray-sum/
+// prefix sum
 #include<bits/stdc++.h>
 using namespace std;
 
